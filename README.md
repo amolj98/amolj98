@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amol Jadhav!</h1>
-<h3 align="center">I share knowledge through my code,  posts and 💙️.</h3>
+<h3 align="center">I share knowledge through my code,  posts💙️.</h3>
 
 
 - 👨‍💻 I’m currently working as Backend Developer.
